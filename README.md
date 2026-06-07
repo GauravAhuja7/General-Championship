@@ -1,6 +1,5 @@
-# SnapSell - Image Selling Platform
+# General Championship
 
-A modern image selling application built with Next.js, featuring secure authentication, seamless image uploads, and integrated payment processing.
 
 ## Features
 
