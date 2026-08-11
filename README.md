@@ -73,7 +73,7 @@
 ## Project Structure
 
 ```
-SnapSell/
+General Championship/
 ├── app/                 # Next.js app directory
 │   ├── admin/          # Admin dashboard
 │   ├── api/            # API routes
